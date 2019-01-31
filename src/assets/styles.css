@@ -1,0 +1,63 @@
+nav.navbar-sticked {
+    background-color: #07364f !important;
+}
+
+nav .navigation .logo img {
+    height: 42px;
+}
+
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6
+footer .h1, footer .h2, footer .h3, footer .h4, footer .h5, footer .h6 {
+    color: #ffffff !important;
+}
+
+.stretcher-wrapper .stretcher .stretcher-item figure {
+    background-color: rgba(7, 54, 79, 0.5);
+}
+
+.navigation ul li a .fa, .navigation ul li a .icon {
+    color: rgba(255,255,255,0.7);
+}
+
+.navigation ul li a:hover .fa, .navigation ul li a:hover .icon {
+    color: rgba(255,255,255,1);
+}
+
+.owl-icons-wrapper.owl-icons-frontpage {
+    margin-top: -158px;
+    background: transparent;
+}
+
+.navbar-fixed .container {
+    padding: 0;
+}
+
+header .title {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #3a3d45;
+    z-index: 1;
+    position: relative;
+    font-size: 30px !important;
+}
+
+@media (min-width: 992px) {
+    header .title {
+        font-size: 30px !important;
+    }
+    .owl-icons-wrapper.owl-icons-frontpage {
+        margin-top: -208px;
+        background: transparent;
+    }
+}
+
+@media (min-width: 1200px) {
+    .header-content .item .title {
+        font-size: 300% !important;
+    }
+}
+@media (min-width: 768px) {
+    .header-content .item .title {
+        font-size: 300% !important;
+    }
+}

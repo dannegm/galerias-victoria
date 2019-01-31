@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Fornitures';
+  src:  url('../fonts/Fornitures.eot?r8h4nx');
+  src:  url('../fonts/Fornitures.eot?r8h4nx#iefix') format('embedded-opentype'),
+    url('../fonts/Fornitures.ttf?r8h4nx') format('truetype'),
+    url('../fonts/Fornitures.woff?r8h4nx') format('woff'),
+    url('../fonts/Fornitures.svg?r8h4nx#Fornitures') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fo {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Fornitures' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fo-decor:before {
+  content: "\e909";
+}
+.fo-escultures:before {
+  content: "\e90a";
+}
+.fo-fornitures:before {
+  content: "\e90b";
+}
+.fo-landscapes:before {
+  content: "\e90c";
+}
+.fo-marfil:before {
+  content: "\e90d";
+}
+.fo-porcelain:before {
+  content: "\e90e";
+}
+.fo-sacro-art:before {
+  content: "\e90f";
+}
+.fo-silver:before {
+  content: "\e910";
+}
+.fo-bed:before {
+  content: "\e900";
+}
+.fo-bedding:before {
+  content: "\e901";
+}
+.fo-chair:before {
+  content: "\e902";
+}
+.fo-chest:before {
+  content: "\e903";
+}
+.fo-entertainment-unit:before {
+  content: "\e904";
+}
+.fo-ocasional:before {
+  content: "\e905";
+}
+.fo-sofa:before {
+  content: "\e906";
+}
+.fo-table:before {
+  content: "\e907";
+}
+.fo-vanity:before {
+  content: "\e908";
+}
